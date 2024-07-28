@@ -74,7 +74,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color:#fff;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 .button-text:hover,.button-text:focus{
@@ -100,7 +99,7 @@ color: #434455;
     background-color: #F4F4FD
 }
 .section-title{
-    font-size: 700;
+font-size: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
@@ -110,7 +109,7 @@ text-transform: capitalize;
 
 }
 .section-list-item{
-background-color: #FFFFFF;
+background-color: #FFF;
 }
 
 .name-item{
@@ -129,14 +128,6 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.section-four-title {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
-}
 .page-footer{
     background-color: #2e2f42;
 }
